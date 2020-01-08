@@ -1,5 +1,7 @@
-![GRASP-resources logo](/Files/Repository/reslogo.png?raw=true "GRASP-resources")
+<p align="center">
+	<img src="/Files/Repository/reslogo.png?raw=true" alt="GRASP-resources"/>
 
+</p>
 This is the GRASP-resources page, where you will find -
 
 [1. Supplementary material for the GRASP paper](#supplementary-material)
