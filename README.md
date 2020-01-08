@@ -14,7 +14,7 @@ You will now have
 
 ## Supplementary material ##
 
-All of the supplementary material for the GRASP paper is stoed in the Supplementary Material folder. Refer to the README within that folder for further information.
+All of the supplementary material for the GRASP paper is stored in the Supplementary Material folder. Refer to the README within that folder for further information.
 
 
 ## Notebooks ##
@@ -29,8 +29,27 @@ Post Inference Analysis - analysing data sets after ancestral inference
 
 * **Curation 1 - Basic file handling**
 
+This notebook shows ways to read FASTA files into Python and perform basic operations on them.
+
+* **Curation 2 - Sequence curation**
+
+This notebook shows how to filter sequence data sets on basis of their headers and how to summarise the species information within them.
+
+* **Curation 3 - Checking exon counts**
+
+This notebook shows how to query NCBI database to retrieve exon counts for a sequence data set.
+
+* **Curation 4 - Mapping exon structure**
+
+This notebook shows how to map the exon structure information onto a multiple sequence alignment.
+
+* **Curation 5 - Sequence curation for ancestral sequence reconstruction**
+
+This notebook shows how to automatically and iteratively remove sequences from a data set on the basis of length, bad characters, motifs, and internal deletions.
+
+
 * **Post inference analysis 1 - Analysis of fractional distance**
 
-This notebook allows you to analyse how the amino acid sequence at equivelant nodes changes as we increase data set size. You can specifiy nodes of interest in the smallest data set, which are then mapped to the equivelant nodes in the larger data sets, and then the fractional distance is calculated and plotted for all given nodes. This analysis was performed in the GRASP paper (see Figure 3).
+This notebook allows you to analyse how the amino acid sequence at equivalent nodes changes as we increase data set size. You can specify nodes of interest in the smallest data set, which are then mapped to the equivalent nodes in the larger data sets, and then the fractional distance is calculated and plotted for all given nodes. This analysis was performed in the GRASP paper (see Figure 3).
 
 The default notebook uses the DHAD and CYP2 data sets and recreates figures from the GRASP paper, however it can easily be adapted to your own data sets.
