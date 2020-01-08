@@ -1,4 +1,4 @@
-![GRASP-resources logo](/Files/Repository/reslogo.png "GRASP-resources")
+![GRASP-resources logo](/Files/Repository/reslogo.png?raw=true "GRASP-resources")
 
 This is the GRASP-resources page, where you will find -
 
