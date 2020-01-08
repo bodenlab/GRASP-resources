@@ -1,15 +1,16 @@
 This is the GRASP-resources page, where you will find -
 
-[1. Supplementary material for the GRASP paper](#supplementary)
+[1. Supplementary material for the GRASP paper](#supplementary-material)
+
 [2. Python notebooks designed to help with curating and analysing ancestral sequence reconstruction datasets](#notebooks)
 
 You can also [learn more about GRASP at the GRASP-suite website](http://bodenlab.github.io/GRASP-suite) and [use GRASP now](http://grasp.scmb.uq.edu.au)
 
-## # Supplementary material ##
+# Supplementary material
 
 All of the supplementary material for the GRASP paper is stored in the Supplementary Material folder. Refer to the README within that folder for further information.
 
-## # Notebooks ##
+# Notebooks 
 
 These Jupyter notebooks are split into two sections.
 
