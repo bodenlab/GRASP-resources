@@ -1,29 +1,47 @@
 This is the GRASP-resources page, where you will find -
 
-1. Supplementary material for the GRASP paper
-2. Python notebooks designed to help with curating and analysing ancestral sequence reconstruction datasets
+[1. Supplementary material for the GRASP paper](#supplementary)
+[2. Python notebooks designed to help with curating and analysing ancestral sequence reconstruction datasets](#notebooks)
 
 You can also [learn more about GRASP at the GRASP-suite website](http://bodenlab.github.io/GRASP-suite) and [use GRASP now](http://grasp.scmb.uq.edu.au)
 
-
-## How to use this repository ##
-
-Clone this repository to your desktop
-
-You will now have
-
-## Supplementary material ##
+## # Supplementary material ##
 
 All of the supplementary material for the GRASP paper is stored in the Supplementary Material folder. Refer to the README within that folder for further information.
 
-
-## Notebooks ##
+## # Notebooks ##
 
 These Jupyter notebooks are split into two sections.
 
 Curation - aligning, curating, and handling files before ancestral inference 
 
 Post Inference Analysis - analysing data sets after ancestral inference
+
+## How to use this repository ##
+
+Clone this repository to your desktop
+
+```
+git clone https://github.com/bodenlab/GRASP-resources.git
+
+```
+
+Install the required Python modules as specified in requirements.txt
+
+```
+pip install -r requirements.txt
+```
+
+Some notebooks require additional code that is stored in the /src folder. As long as you keep the src folder in the same relative location to the notebooks this will run correctly.
+
+Now you can start a Jupyter notebook from the main folder
+
+```
+jupyter notebook
+```
+
+And you will be able to navigate to the different notebooks and run the Python code within them.
+
 
 ## Notebooks Table of Contents ##
 
