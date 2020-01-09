@@ -24,14 +24,18 @@ Post Inference Analysis - analysing data sets after ancestral inference
 
 ## How to use this repository ##
 
-Clone this repository to your desktop
+1. Clone this repository to your desktop
 
 ```
 git clone https://github.com/bodenlab/GRASP-resources.git
 
 ```
 
-Install the required Python modules as specified in requirements.txt
+2. Install Jupyter Notebook
+
+[Here are the instructions to install Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+
+3. Install the required Python modules as specified in requirements.txt
 
 ```
 pip install -r requirements.txt
@@ -39,7 +43,7 @@ pip install -r requirements.txt
 
 Some notebooks require additional code that is stored in the /src folder. As long as you keep the src folder in the same relative location to the notebooks this will run correctly.
 
-Now you can start a Jupyter notebook from the main folder
+4. Now you can start a Jupyter notebook from the main folder
 
 ```
 jupyter notebook
