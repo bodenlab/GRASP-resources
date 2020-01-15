@@ -13,3 +13,4 @@ Included are alignments, phylogenetic trees, ancestral inferences, and phylogene
 
 * KARI
 
+As well as these, there are also the files used in the CYP2 / KARI tool comparison section of the GRASP paper.
