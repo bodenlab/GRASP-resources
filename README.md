@@ -31,7 +31,7 @@ git clone https://github.com/bodenlab/GRASP-resources.git
 
 ```
 
-2. Install Jupyter Notebook
+2. Install Jupyter Notebook (python 3 version)
 
 [Here are the instructions to install Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
