@@ -52,6 +52,10 @@ Some notebooks require additional code that is stored in the /src folder. As lon
 ```
 jupyter notebook
 ```
+alternatively:
+```
+jupyter-notebook
+```
 
 And you will be able to navigate to the different notebooks and run the Python code within them.
 
