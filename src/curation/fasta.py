@@ -3,7 +3,7 @@ from Bio.Seq import Seq
 from collections import defaultdict
 import plotly
 import utilities
-import plotly.plotly as py
+import chart_studio.plotly as py
 import plotly.graph_objs as go
 from plotly.graph_objs import *
 # plotly.tools.set_credentials_file(username='gabefoley', api_key='xS8qT0kIbIKDWt0BalOd')

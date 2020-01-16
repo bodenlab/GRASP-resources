@@ -31,7 +31,7 @@ git clone https://github.com/bodenlab/GRASP-resources.git
 
 ```
 
-2. Install Jupyter Notebook (python 3 version)
+2. Install Jupyter Notebook (python >=3.5)
 
 [Here are the instructions to install Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
@@ -42,6 +42,10 @@ pip install -r requirements.txt
 ```
 
 Some notebooks require additional code that is stored in the /src folder. As long as you keep the src folder in the same relative location to the notebooks this will run correctly.
+
+For Curation 5, the <u>standard package</u> of MAFFT is required for multiple sequence alignment.
+
+[Here are the instructions to install MAFFT](https://mafft.cbrc.jp/alignment/software/)
 
 4. Now you can start a Jupyter notebook from the main folder
 
