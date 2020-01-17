@@ -3,11 +3,14 @@ from Bio.Seq import Seq
 from collections import defaultdict
 import plotly
 import utilities
-import chart_studio.plotly as py
+import plotly.plotly as py
 import plotly.graph_objs as go
+from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 from plotly.graph_objs import *
 # plotly.tools.set_credentials_file(username='gabefoley', api_key='xS8qT0kIbIKDWt0BalOd')
 import re
+
+init_notebook_mode(connected=True)
 
 def print_record_overview(records):
     """

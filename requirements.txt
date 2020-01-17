@@ -6,7 +6,7 @@ biopython==1.76
 bleach==3.1.0
 certifi==2019.11.28
 chardet==3.0.4
-chart-studio==1.0.0
+plotly==3.8.1
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
@@ -40,7 +40,6 @@ parso==0.5.2
 pexpect==4.7.0
 pickleshare==0.7.5
 Pillow==7.0.0
-plotly==4.4.1
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
 ptyprocess==0.6.0
