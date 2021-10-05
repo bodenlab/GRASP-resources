@@ -80,3 +80,4 @@ This notebook shows how to automatically and iteratively remove sequences from a
 This notebook allows you to analyse how the amino acid sequence at equivalent nodes changes as we increase data set size. You can specify nodes of interest in the smallest data set, which are then mapped to the equivalent nodes in the larger data sets, and then the fractional distance is calculated and plotted for all given nodes. This analysis was performed in the GRASP paper (see Figure 3).
 
 The default notebook uses the DHAD and CYP2 data sets and recreates figures from the GRASP paper, however it can easily be adapted to your own data sets.
+
