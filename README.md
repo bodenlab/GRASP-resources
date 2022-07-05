@@ -10,6 +10,13 @@ This is the GRASP-resources page, where you will find -
 
 You can also [learn more about GRASP at the GRASP-suite website](http://bodenlab.github.io/GRASP-suite) and [use GRASP now](http://grasp.scmb.uq.edu.au)
 
+You might also be interested in -
+
+[GRASP - the code for the web GUI version of GRASP](https://github.com/bodenlab/GRASP)
+
+[bnkit - the code for performing inference within GRASP](https://github.com/bodenlab/bnkit)
+
+
 # Supplementary material
 
 All of the supplementary material for the GRASP paper is stored in the Supplementary Material folder. Refer to the README within that folder for further information.
